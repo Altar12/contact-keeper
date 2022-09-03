@@ -1,0 +1,25 @@
+{
+  "name": "contact-keeper",
+  "version": "1.0.0",
+  "description": "An application that lets users to register themselves. Once registered, users can maintain their custom contact list, essentially adding contracts, viewing contacts, deleting contacts & modifying the existing contacts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "config": "^3.3.7",
+    "express": "^4.18.1",
+    "express-validator": "^6.14.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.4"
+  },
+  "devDependencies": {
+    "concurrently": "^7.3.0",
+    "nodemon": "^2.0.19"
+  }
+}
