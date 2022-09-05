@@ -1,4 +1,4 @@
 {
-    "mongoUri": "mongodb+srv://shubh12:shubh12@contact-keeper.bjypsz1.mongodb.net/?retryWrites=true&w=majority",
-    "jwtSecret": "Neji Hyuga"
+    "mongoUri": "dummy uri",
+    "jwtSecret": "dummy secret"
 }
